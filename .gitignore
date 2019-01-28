@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# modules
+node_modules/
+
+# misc
+.history
