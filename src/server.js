@@ -3,10 +3,7 @@ const debug = require('debug')('app');
 const { databaseConfig } = require('./common/config');
 const { database } = require('./common/services');
 
-database.connect(
-  databaseConfig.url,
-  databaseConfig.options,
-);
+database.connect(databaseConfig.url, databaseConfig.options);
 
 const app = require('./app');
 
