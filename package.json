@@ -21,7 +21,7 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.7.5",
     "ms": "^2.1.1",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
     "uniq-string": "^1.0.0",
